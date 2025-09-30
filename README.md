@@ -67,6 +67,10 @@ Clean Heikin Ashi calc
 ✅ Bar colors for live signals
 
 
+NOTE: Designed and implemented algorithmic trading strategies in PineScript (Nasdaq index, Gold futures), including signal generation, backtesting, and performance evaluation. Currently extending models into Python for more advanced testing and automation
+
+so this script is more of avisual inicator for before the finale on python
+
 // This Pine Script® code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
 // © sikandergahir6
 
